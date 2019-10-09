@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: aea8ef6041409e04492693f79c8b3c16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7737052173924949168
+    second: gesture_sheet_0
+  - first:
+      213: 5573544735138521472
+    second: gesture_sheet_1
+  - first:
+      213: -3579077480454157558
+    second: gesture_sheet_2
+  - first:
+      213: -6413711591000025465
+    second: gesture_sheet_3
+  - first:
+      213: 2878418884711837565
+    second: gesture_sheet_4
+  - first:
+      213: -6796655135728066641
+    second: gesture_sheet_5
+  - first:
+      213: -62808767975289095
+    second: gesture_sheet_6
+  - first:
+      213: 6066231987730043395
+    second: gesture_sheet_7
+  - first:
+      213: 4559306672665884803
+    second: gesture_sheet_8
+  - first:
+      213: 8727480148666052925
+    second: gesture_sheet_9
+  - first:
+      213: 6040124738235305220
+    second: gesture_sheet_10
+  - first:
+      213: -4691395169426155443
+    second: gesture_sheet_11
+  - first:
+      213: -371788670301317794
+    second: gesture_sheet_12
+  - first:
+      213: 835876479426672998
+    second: gesture_sheet_13
+  - first:
+      213: -1147606460889987660
+    second: gesture_sheet_14
+  - first:
+      213: 6586432846890572986
+    second: gesture_sheet_15
+  - first:
+      213: -3253664953164523819
+    second: gesture_sheet_16
+  - first:
+      213: 7170383556726321308
+    second: gesture_sheet_17
+  - first:
+      213: -1970766173618003840
+    second: gesture_sheet_18
+  - first:
+      213: 7570224799766449309
+    second: gesture_sheet_19
+  - first:
+      213: -5447580236397276900
+    second: gesture_sheet_20
+  - first:
+      213: 7630271145601091126
+    second: gesture_sheet_21
+  - first:
+      213: -8552274486022106360
+    second: gesture_sheet_22
+  - first:
+      213: -7097516056925257237
+    second: gesture_sheet_23
+  - first:
+      213: -3519503762950847787
+    second: gesture_sheet_24
+  - first:
+      213: 2766522101521716418
+    second: gesture_sheet_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gesture_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 459
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e786c5d0f81d454dab7e137c181ef79
+      internalID: -7737052173924949168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 459
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7884a0084f33f49953abc5b5a74981
+      internalID: 5573544735138521472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 458
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c5900a8cc16be42a5c3ac215dd3c99
+      internalID: -3579077480454157558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 457
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ee3847e5d69d94589145fc5917e214
+      internalID: -6413711591000025465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 458
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c438f1c865deeb408220d5f9d5b3021
+      internalID: 2878418884711837565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 375
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1065a8abd86da4eb2366d46f74a4a8
+      internalID: -6796655135728066641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 376
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954abdce58b718743bf8961245fb6ddf
+      internalID: -62808767975289095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 377
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cddad2332f195742ab0738988ae7887
+      internalID: 6066231987730043395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 377
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2692456712d9f746afaee98b88d34d9
+      internalID: 4559306672665884803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 376
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90f1630d54d5b640a4ad2de15f0cc1f
+      internalID: 8727480148666052925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 292
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e0821c20db66647af64063229fd8e0
+      internalID: 6040124738235305220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 292
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ff8824828fd09439f2ae7a42acc8ab
+      internalID: -4691395169426155443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 291
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dff37f2b90d3143854863f643e2ecc
+      internalID: -371788670301317794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 291
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e79ea07d5257343891f0a08999cf1e
+      internalID: 835876479426672998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 292
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6666eed31fff9549961ab6df378b10e
+      internalID: -1147606460889987660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 208
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ecb1f31be88b54087f0ddcb58fa4b1
+      internalID: 6586432846890572986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 209
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a470b22d52af5b14b9578fa8c4a1ce4a
+      internalID: -3253664953164523819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 210
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad19fe7c7496eed4091d7acc7b687f60
+      internalID: 7170383556726321308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 210
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab893dccda322a498618f66f03d3149
+      internalID: -1970766173618003840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 210
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc4fef83900351419f71b42775f1d49
+      internalID: 7570224799766449309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794c986124be695458e8149452fa64b4
+      internalID: -5447580236397276900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36547d3d46e51804ab42b8855a9aeb84
+      internalID: 7630271145601091126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 125
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b58849ba1308944cbab1cb174b4c315
+      internalID: -8552274486022106360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 125
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3f17102b3533741885f0b42d015445
+      internalID: -7097516056925257237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 109
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb703bf1ced354ea460428d9e08708
+      internalID: -3519503762950847787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gesture_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0853a6d79a930d74199e7a16de8b4eb0
+      internalID: 2766522101521716418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
